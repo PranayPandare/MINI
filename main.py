@@ -1,4 +1,5 @@
 from tkinter import*
+import tkinter
 import qrcode
 import  sqlite3
 from PIL import Image,ImageTk
